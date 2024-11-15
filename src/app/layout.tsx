@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-	title: "callback params",
-	description: "🟨 pretty print 🟦",
+	title: "callback printer",
+	description: "🟨 pretty please 🟦",
 };
 
 export default function RootLayout({
